@@ -1,0 +1,73 @@
+.gallery img{
+    width: 100% 
+    height:30px    
+}
+h2{
+   font-family :impact, fantasy; 
+   text-align: center;
+   font-size: 30px;
+   color:orchid;
+   font-style: italic; 
+}
+
+h4{
+    font-family :impact, fantasy; 
+    font-size: 40px;
+    font-style: italic; 
+    color:orchid;
+}
+
+p{
+    font-family :helvetica, ;sans-serif
+}
+
+#menu{
+      width:100%;
+      height:40px;
+      background-color: orchid;
+      padding-top: 12px;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:inherit;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
+table{
+   font-family:fantasy;
+   border-collapse:separate;
+   border-width 60px;
+   border-style:inherit;
+   border-color: orchid;
+   column-rule-color: aqua;
+   background-color:orchid;
+   text-decoration-color:snow;
+   tab-size:20px
+}
+
+tr.alt td{
+           background-color:cornflowerblue;
+}
+
+          <div class="container"></div>
+           form{
+                background-color: darkmagenta;
+                border:blue;
+                tab-size: 20px  
+               <button id="pay now" >pay now!</button>
+               
+        }    
+       button{
+              background-color: darkmagenta;
+              border: orchid;
+           
+           }    
